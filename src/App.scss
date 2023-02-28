@@ -1,0 +1,8 @@
+@use "./styles/partials/resets";
+@use "./styles/partials/mixins" as *;
+@use "./styles/partials/variables" as *;
+
+.app {
+  // @include padding_between_components_mobile;
+  margin-top: 2.4rem;
+}
