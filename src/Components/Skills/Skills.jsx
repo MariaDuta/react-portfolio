@@ -17,6 +17,7 @@ const Skills = () => {
       <h1 className='skills__skill2'>AWS</h1>
       <h1 className='skills__skill1'>Material UI</h1>
       <h1 className='skills__skill2'>Jest</h1>
+      <h1 className='skills__skill1'>Python</h1>
     </section>
   );
 };

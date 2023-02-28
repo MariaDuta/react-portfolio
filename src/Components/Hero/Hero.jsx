@@ -1,12 +1,11 @@
 import "./Hero.scss";
-import code from "../../assets/images/code.png";
-import maria from "../../assets/images/maria.jpg";
+import mariad from "../../assets/images/mariad.png";
 
 const Hero = () => {
   return (
     <section className='hero'>
       <div className='hero__container'>
-        <img src={maria} alt='Image of Maria' className='hero__profileImg' />
+        <img src={mariad} alt='Image of Maria' className='hero__profileImg' />
         <div className='hero__text-wrapper'>
           <h1 className='hero__title'>
             <span className='hero__name'>Maria Duta</span>.
@@ -27,8 +26,6 @@ solutions.
       >
         CONTACT ME
       </a>
-
-      <img className='hero__shape' src={code} alt='' />
 
       <div className='hero__line'></div>
     </section>
