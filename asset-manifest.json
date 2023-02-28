@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.2b84d991.css",
-    "main.js": "/react-portfolio/static/js/main.cad0d986.js",
+    "main.css": "/react-portfolio/static/css/main.42a7de05.css",
+    "main.js": "/react-portfolio/static/js/main.c5b218f8.js",
     "static/media/mariad.png": "/react-portfolio/static/media/mariad.5ddd6aa2d77c668cd393.png",
     "static/media/weather.jpg": "/react-portfolio/static/media/weather.df8a308fd748feb973d4.jpg",
     "static/media/PlayfairDisplay-Bold.ttf": "/react-portfolio/static/media/PlayfairDisplay-Bold.c5eee0d4e8a88e15d175.ttf",
     "static/media/PlayfairDisplay-Regular.ttf": "/react-portfolio/static/media/PlayfairDisplay-Regular.3bab1045bc0f282aa071.ttf",
-    "static/media/code.png": "/react-portfolio/static/media/code.8c12bbb453f8e53dfc34.png",
     "index.html": "/react-portfolio/index.html",
-    "main.2b84d991.css.map": "/react-portfolio/static/css/main.2b84d991.css.map",
-    "main.cad0d986.js.map": "/react-portfolio/static/js/main.cad0d986.js.map"
+    "main.42a7de05.css.map": "/react-portfolio/static/css/main.42a7de05.css.map",
+    "main.c5b218f8.js.map": "/react-portfolio/static/js/main.c5b218f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b84d991.css",
-    "static/js/main.cad0d986.js"
+    "static/css/main.42a7de05.css",
+    "static/js/main.c5b218f8.js"
   ]
 }
