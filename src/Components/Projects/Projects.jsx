@@ -33,6 +33,20 @@ const Projects = () => {
               >
                 VIEW CODE
               </a>
+			  <a
+                className='projects__link'
+                href='https://main--shop-checkout-system.netlify.app/'
+                target={"_blank"}
+              >
+                VIEW PROJECT
+              </a>
+              <a
+                className='projects__link'
+                href='https://github.com/MariaDuta/checkout-system'
+                target={"_blank"}
+              >
+                VIEW CODE
+              </a>
             </div>
           </div>
         </div>
