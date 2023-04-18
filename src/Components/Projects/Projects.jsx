@@ -1,5 +1,6 @@
 import "./Projects.scss";
 import weather from "../../assets/images/weather.jpg";
+import checkoutsystem from "../../assets/images/checkoutsystem.jpg"
 
 
 const Projects = () => {
@@ -33,7 +34,22 @@ const Projects = () => {
               >
                 VIEW CODE
               </a>
-			  <a
+			  
+            </div>
+          </div>
+        </div>
+		<div className='projects__project'>
+          <img className='projects__img' src={checkoutsystem} alt='' />
+          <div className='projects__details'>
+            <h1 className='projects__title'>Checkout System</h1>
+            <div className='projects__skills'>
+              <p>React</p>
+              <p>JavaScript</p>
+              <p>TailWind</p>
+              <p>HTML</p>
+            </div>
+            <div className='projects__links'>
+			<a
                 className='projects__link'
                 href='https://main--shop-checkout-system.netlify.app/'
                 target={"_blank"}
